@@ -1,0 +1,52 @@
+{
+    "testimonials": [
+        {
+            "title": "Easy to use platform",
+            "body": "With this platform, I can upload my designs in t-shirts, mugs, cases, etc. It is really helpful to me because I save a lot of money avoiding photo and models prods using mockups.",
+            "name": "Diego Rodríguez",
+            "profile": "DR",
+            "timeAgo": "1 month ago",
+            "score": 5
+        },
+        {
+            "title": "Trustworthy company",
+            "body": "“They refunded the money they responded really quickly after I texted them on Instagram so in conclusion, I am really glad that they considered my situation and made the refund. Trustworthy company.",
+            "name": "Barbare",
+            "profile": "B",
+            "timeAgo": "1 month ago",
+            "score": 5
+        },
+        {
+            "title": "Great Quality templates",
+            "body": "There are a lot of templates, mockups, and designs with great quality. This helps me a lot in my work since I do it quickly and with great results.",
+            "name": "Alberto Vazquez",
+            "profile": "AV",
+            "timeAgo": "2 months ago",
+            "score": 4
+        },
+        {
+            "title": "User of this tool for some time",
+            "body": "I am highly satisfied with how you can create logos and use them on models for excellent pictures for social media! I have also had to contact customer service, and they replied within 30 minutes having the issue solved",
+            "name": "Rafael",
+            "profile": "R",
+            "timeAgo": "8 months ago",
+            "score": 5
+        },
+        {
+            "title": "An incredibly versatile tool",
+            "body": "It has helped quite a bit with my previous projects! The consistent additions to their library make designing fresh and exciting. Plus, the customer service workers are very helpful and knowledgable.",
+            "name": "Parker Simpson",
+            "profile": "PS",
+            "timeAgo": "8 months ago",
+            "score": 5
+        },
+        {
+            "title": "I’m very impressed!",
+            "body": "I enjoyed using Placeit for my designs. I was relieved to find out that PlaceIt resolved my ticket within minutes. I am very impressed with their quick response and great customer service.",
+            "name": "Juane Marais",
+            "profile": "JM",
+            "timeAgo": "16 months ago",
+            "score": 4
+        }
+    ]
+}
